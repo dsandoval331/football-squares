@@ -54,7 +54,7 @@ def create_football_squares_board(players):
     return board
 
 # --- Example Usage ---
-player_list = ["Nick", "Joe", "Bob", "Jane", "Rose", "Jack", "Jill", "Joan", "Brad", "Katy"]
+player_list = ["Danny", "Rob", "Tom", "James", "Joe", "Anthony", "Hunt", "Tito", "Lira", "Joday"]
 
 # Ensure you have pandas installed (pip install pandas)
 game_board = create_football_squares_board(player_list)
